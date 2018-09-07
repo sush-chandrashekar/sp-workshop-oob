@@ -1,0 +1,26 @@
+
+.btn-primary {
+    background-color: $brand-primary !important;
+}
+
+.navbar {
+    border-bottom: 0px !important;
+}
+
+body {
+    background-color: #fff !important;
+}
+
+body .padding-top {
+    padding-top: 0rem !important;
+}
+
+main.page, main.body {
+    height: auto !important;
+}
+
+.navbar-brand img {
+	margin-top: 3px !important;
+	max-height: 24px !important;
+    max-width: 208px !important;
+}
