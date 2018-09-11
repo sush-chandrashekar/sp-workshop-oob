@@ -216,6 +216,18 @@ DEMO: Of the OOB form widget. Ex: Problem Table, Add couple of sections to Mobil
 	
 Here, you can change Logo, and theme colors of your portal
 
+| Field         | Value                                 |
+|---------------|-------------------------------------------|
+| Logo        | **[`Acme Logo`](resources/Branding/acme.png)** |
+| Navbar        | #81B5A1 |
+| Navbar divider |#293E40 |
+| Navbar link color |#293E40 |
+| Primary |#68A1AF |
+| Success |#8686BC |
+| Info |#E5D87C |
+| Warning |#E8A679 |
+| Danger |#DB8F8F |
+
 ## A Communtiy of widgets
 
 1. Please go to **[`Widget Library`](https://sc.service-now.com/snds?state=featured-widgets&featured=true)**
