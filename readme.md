@@ -200,7 +200,8 @@ In this lab we will use OOB widgets to build our pages.
 | Link to page | form |
 | Show even when empty | True |
 
-DEMO: Of the OOB form widget. Ex: Problem Table, Add couple of sections to Mobile view to make the form more readable.
+
+**DEMO: Of the OOB form widget. Ex: Problem Table, Add couple of sections to Mobile view to make the form more readable.**
 
 ## Branding
 
