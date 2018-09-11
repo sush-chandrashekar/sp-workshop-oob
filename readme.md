@@ -35,8 +35,7 @@ In this lab you will learn how to configure portals and customise the theme appl
 	|---------------|-------------------------------------------|
 	| Name        | Acme |
 	| Header        | Stock Header *(we will use the OOB header)* |
-	| CSS Variables | *Contents of [theme.css](scripts/lab-1/theme.css)*|
-
+	
 # Lab 2: Cloning and Creating Pages
 ## Goal
 In this lab we will create a login page for our portal, and the home page.
