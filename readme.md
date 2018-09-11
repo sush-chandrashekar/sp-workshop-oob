@@ -203,6 +203,20 @@ In this lab we will use OOB widgets to build our pages.
 
 DEMO: Of the OOB form widget. Ex: Problem Table, Add couple of sections to Mobile view to make the form more readable.
 
+## Branding
+
+1. Search for **Service Portal Configuration** in the instance left nav and click on it.
+2. Sp Config page should open up in new tab 
+
+	![options](images/sp_config.png)
+
+3. Click on **Branding Editor**
+4. Search for **Acme Corp**
+
+	![options](images/acme-corp.png)
+	
+Here, you can change Logo, and theme colors of your portal
+
 ## A Communtiy of widgets
 
 1. Please go to **[`Widget Library`](https://sc.service-now.com/snds?state=featured-widgets&featured=true)**
@@ -241,19 +255,7 @@ Now try the link, your form should look somrthing like this.
 ![options](images/multiform.png)
 
 
-## Branding
 
-1. Search for **Service Portal Configuration** in the instance left nav and click on it.
-2. Sp Config page should open up in new tab 
-
-	![options](images/sp_config.png)
-
-3. Click on **Branding Editor**
-4. Search for **Acme Corp**
-
-	![options](images/acme-corp.png)
-	
-Here, you can change Logo, and theme colors of your portal
 
 
 
